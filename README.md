@@ -1,6 +1,8 @@
 # Real Time Bus Tracker
 MIT xPRO Week 9: Asynchronous Code
 
+<img width="772" alt="Screen Shot 2021-05-04 at 6 03 04 PM" src="https://user-images.githubusercontent.com/45735996/117095823-1f813280-ad03-11eb-880d-5353f6224148.png">
+
 # Description
 This animated project was created primarily in JavaScript as part of my coursework for the MIT xPRO Full Stack Web Development program. It features an animated map that showcases the bus stops between MIT and Harvard. The tracker displays bus stops between MIT and Harvard.
 
